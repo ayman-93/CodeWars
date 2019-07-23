@@ -1,4 +1,4 @@
-const isDivisible = (n, x, y) => (n % x === 0 ||  && n % x === 0 );
+const isDivisible2 = (n, x, y) => (n % x === 0 && n % y === 0 );
 
 
 
