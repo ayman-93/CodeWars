@@ -13,6 +13,6 @@ countSheep = (num) => {
 // const countSheep = length => Array.from({ length }, (_, i) => ++i + ' sheep...').join('')
 
 
-console.log(countSheep(2,5), "1 sheep...");
+console.log(countSheep(2), "1 sheep...");
 console.log(countSheep(2), "1 sheep...2 sheep...");
 console.log(countSheep(3), "1 sheep...2 sheep...3 sheep...");
